@@ -1,0 +1,23 @@
+{
+  "name": "coffee-angular-di-lint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/kitak/coffee-angular-di-lint.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kitak/coffee-angular-di-lint/issues"
+  },
+  "homepage": "https://github.com/kitak/coffee-angular-di-lint",
+  "dependencies": {
+    "coffee-script": "^1.9.1",
+    "glob": "^5.0.3"
+  }
+}
